@@ -561,7 +561,7 @@ contact.html
 
 ![alt text](<Screenshot 2024-12-26 121219.png>)
 ![alt text](<Screenshot 2024-12-26 121314.png>)
-![alt text](<Screenshot 2024-12-26 121340-1.png>)
+![alt text](<Screenshot 2024-12-26 121340.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
